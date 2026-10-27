@@ -1,0 +1,827 @@
+[
+  {
+    "_id": "A001",
+    "patientId": "P01",
+    "doctorId": "D01",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:05:00Z"
+    }
+  },
+  {
+    "_id": "A002",
+    "patientId": "P02",
+    "doctorId": "D02",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:06:00Z"
+    }
+  },
+  {
+    "_id": "A003",
+    "patientId": "P03",
+    "doctorId": "D03",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:07:00Z"
+    }
+  },
+  {
+    "_id": "A004",
+    "patientId": "P04",
+    "doctorId": "D04",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:08:00Z"
+    }
+  },
+  {
+    "_id": "A005",
+    "patientId": "P05",
+    "doctorId": "D05",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:09:00Z"
+    }
+  },
+  {
+    "_id": "A006",
+    "patientId": "P06",
+    "doctorId": "D06",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:05:00Z"
+    }
+  },
+  {
+    "_id": "A007",
+    "patientId": "P07",
+    "doctorId": "D07",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:06:00Z"
+    }
+  },
+  {
+    "_id": "A008",
+    "patientId": "P08",
+    "doctorId": "D08",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:07:00Z"
+    }
+  },
+  {
+    "_id": "A009",
+    "patientId": "P09",
+    "doctorId": "D09",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:08:00Z"
+    }
+  },
+  {
+    "_id": "A010",
+    "patientId": "P10",
+    "doctorId": "D10",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-01T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-01T09:09:00Z"
+    }
+  },
+  {
+    "_id": "A011",
+    "patientId": "P11",
+    "doctorId": "D01",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-02T09:05:00Z"
+    }
+  },
+  {
+    "_id": "A012",
+    "patientId": "P12",
+    "doctorId": "D02",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-02T09:06:00Z"
+    }
+  },
+  {
+    "_id": "A013",
+    "patientId": "P13",
+    "doctorId": "D03",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-02T09:07:00Z"
+    }
+  },
+  {
+    "_id": "A014",
+    "patientId": "P14",
+    "doctorId": "D04",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-02T09:08:00Z"
+    }
+  },
+  {
+    "_id": "A015",
+    "patientId": "P15",
+    "doctorId": "D05",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "completed",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true,
+    "actualStartAt": {
+      "$date": "2026-10-02T09:09:00Z"
+    }
+  },
+  {
+    "_id": "A016",
+    "patientId": "P16",
+    "doctorId": "D06",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A017",
+    "patientId": "P17",
+    "doctorId": "D07",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A018",
+    "patientId": "P18",
+    "doctorId": "D08",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A019",
+    "patientId": "P19",
+    "doctorId": "D09",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A020",
+    "patientId": "P20",
+    "doctorId": "D10",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-02T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A021",
+    "patientId": "P21",
+    "doctorId": "D01",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A022",
+    "patientId": "P22",
+    "doctorId": "D02",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A023",
+    "patientId": "P23",
+    "doctorId": "D03",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A024",
+    "patientId": "P24",
+    "doctorId": "D04",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A025",
+    "patientId": "P25",
+    "doctorId": "D05",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A026",
+    "patientId": "P26",
+    "doctorId": "D06",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A027",
+    "patientId": "P27",
+    "doctorId": "D07",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A028",
+    "patientId": "P28",
+    "doctorId": "D08",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A029",
+    "patientId": "P29",
+    "doctorId": "D09",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A030",
+    "patientId": "P30",
+    "doctorId": "D10",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-03T09:00:00Z"
+    },
+    "status": "cancelled",
+    "activeSlot": false,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A031",
+    "patientId": "P01",
+    "doctorId": "D01",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A032",
+    "patientId": "P02",
+    "doctorId": "D02",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A033",
+    "patientId": "P03",
+    "doctorId": "D03",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A034",
+    "patientId": "P04",
+    "doctorId": "D04",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A035",
+    "patientId": "P05",
+    "doctorId": "D05",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A036",
+    "patientId": "P06",
+    "doctorId": "D06",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A037",
+    "patientId": "P07",
+    "doctorId": "D07",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A038",
+    "patientId": "P08",
+    "doctorId": "D08",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A039",
+    "patientId": "P09",
+    "doctorId": "D09",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A040",
+    "patientId": "P10",
+    "doctorId": "D10",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-04T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A041",
+    "patientId": "P11",
+    "doctorId": "D01",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A042",
+    "patientId": "P12",
+    "doctorId": "D02",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A043",
+    "patientId": "P13",
+    "doctorId": "D03",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A044",
+    "patientId": "P14",
+    "doctorId": "D04",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A045",
+    "patientId": "P15",
+    "doctorId": "D05",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A046",
+    "patientId": "P16",
+    "doctorId": "D06",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A047",
+    "patientId": "P17",
+    "doctorId": "D07",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A048",
+    "patientId": "P18",
+    "doctorId": "D08",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A049",
+    "patientId": "P19",
+    "doctorId": "D09",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A050",
+    "patientId": "P20",
+    "doctorId": "D10",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-05T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A051",
+    "patientId": "P21",
+    "doctorId": "D01",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A052",
+    "patientId": "P22",
+    "doctorId": "D02",
+    "departmentId": "DEP1",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A053",
+    "patientId": "P23",
+    "doctorId": "D03",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A054",
+    "patientId": "P24",
+    "doctorId": "D04",
+    "departmentId": "DEP2",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A055",
+    "patientId": "P25",
+    "doctorId": "D05",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A056",
+    "patientId": "P26",
+    "doctorId": "D06",
+    "departmentId": "DEP3",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A057",
+    "patientId": "P27",
+    "doctorId": "D07",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A058",
+    "patientId": "P28",
+    "doctorId": "D08",
+    "departmentId": "DEP4",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A059",
+    "patientId": "P29",
+    "doctorId": "D09",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  },
+  {
+    "_id": "A060",
+    "patientId": "P30",
+    "doctorId": "D10",
+    "departmentId": "DEP5",
+    "startAt": {
+      "$date": "2026-10-06T09:00:00Z"
+    },
+    "status": "booked",
+    "activeSlot": true,
+    "mode": "in_person",
+    "synthetic": true
+  }
+]

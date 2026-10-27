@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "RX01",
+    "appointmentId": "A001",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:05:00Z"
+    }
+  },
+  {
+    "_id": "RX02",
+    "appointmentId": "A002",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:06:00Z"
+    }
+  },
+  {
+    "_id": "RX03",
+    "appointmentId": "A003",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:07:00Z"
+    }
+  },
+  {
+    "_id": "RX04",
+    "appointmentId": "A004",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:08:00Z"
+    }
+  },
+  {
+    "_id": "RX05",
+    "appointmentId": "A005",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:09:00Z"
+    }
+  },
+  {
+    "_id": "RX06",
+    "appointmentId": "A006",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:05:00Z"
+    }
+  },
+  {
+    "_id": "RX07",
+    "appointmentId": "A007",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:06:00Z"
+    }
+  },
+  {
+    "_id": "RX08",
+    "appointmentId": "A008",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:07:00Z"
+    }
+  },
+  {
+    "_id": "RX09",
+    "appointmentId": "A009",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:08:00Z"
+    }
+  },
+  {
+    "_id": "RX10",
+    "appointmentId": "A010",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-01T09:09:00Z"
+    }
+  },
+  {
+    "_id": "RX11",
+    "appointmentId": "A011",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-02T09:05:00Z"
+    }
+  },
+  {
+    "_id": "RX12",
+    "appointmentId": "A012",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-02T09:06:00Z"
+    }
+  },
+  {
+    "_id": "RX13",
+    "appointmentId": "A013",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-02T09:07:00Z"
+    }
+  },
+  {
+    "_id": "RX14",
+    "appointmentId": "A014",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-02T09:08:00Z"
+    }
+  },
+  {
+    "_id": "RX15",
+    "appointmentId": "A015",
+    "notes": "Synthetic consultation record for demonstration.",
+    "medicines": [],
+    "issuedDate": {
+      "$date": "2026-10-02T09:09:00Z"
+    }
+  }
+]

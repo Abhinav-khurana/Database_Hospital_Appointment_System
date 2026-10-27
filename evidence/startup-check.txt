@@ -1,0 +1,31 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> hospital-appointments@1.1.0 launch
+> npm run setup && npm run build && npm run local
+
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> hospital-appointments@1.1.0 setup
+> node scripts/setup.js
+
+.env already exists; preserved unchanged.
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> hospital-appointments@1.1.0 build
+> node scripts/build.js
+
+
+  dist/app.js   538.6kb
+  dist/app.css    9.8kb
+
+⚡ Done in 105ms
+Production web assets written to dist/.
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> hospital-appointments@1.1.0 local
+> node scripts/local.js
+
+Starting local MongoDB. The first run downloads MongoDB 7.0.14.
+Open http://localhost:4017 | Data persists in .local/mongo
+
+PASS: npm run launch starts database, builds frontend and serves healthy API and page.

@@ -1,0 +1,1 @@
+A_CONSULT_DEMO is available in doctor1@example.test schedule. Existing demo record is preserved. This helper adds at most one record.

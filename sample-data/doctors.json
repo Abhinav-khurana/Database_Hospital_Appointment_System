@@ -1,0 +1,232 @@
+[
+  {
+    "_id": "D01",
+    "name": "Dr. Aarav Mehta",
+    "departmentId": "DEP1",
+    "specialization": "Cardiology",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D02",
+    "name": "Dr. Nisha Kapoor",
+    "departmentId": "DEP1",
+    "specialization": "Cardiology",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D03",
+    "name": "Dr. Rohan Sethi",
+    "departmentId": "DEP2",
+    "specialization": "Dermatology",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D04",
+    "name": "Dr. Ananya Rao",
+    "departmentId": "DEP2",
+    "specialization": "Dermatology",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D05",
+    "name": "Dr. Vikram Shah",
+    "departmentId": "DEP3",
+    "specialization": "Orthopaedics",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D06",
+    "name": "Dr. Meera Nair",
+    "departmentId": "DEP3",
+    "specialization": "Orthopaedics",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D07",
+    "name": "Dr. Kabir Malhotra",
+    "departmentId": "DEP4",
+    "specialization": "Paediatrics",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D08",
+    "name": "Dr. Sana Khan",
+    "departmentId": "DEP4",
+    "specialization": "Paediatrics",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D09",
+    "name": "Dr. Arjun Batra",
+    "departmentId": "DEP5",
+    "specialization": "General Medicine",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  },
+  {
+    "_id": "D10",
+    "name": "Dr. Isha Verma",
+    "departmentId": "DEP5",
+    "specialization": "General Medicine",
+    "active": true,
+    "availability": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "startUTC": "09:00",
+        "endUTC": "12:00",
+        "slotMinutes": 30
+      }
+    ]
+  }
+]

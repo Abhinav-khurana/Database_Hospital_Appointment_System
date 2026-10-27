@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "U01",
+    "email": "patient1@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U02",
+    "email": "patient2@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U03",
+    "email": "patient3@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U04",
+    "email": "patient4@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U05",
+    "email": "patient5@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U06",
+    "email": "patient6@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U07",
+    "email": "patient7@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U08",
+    "email": "patient8@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U09",
+    "email": "patient9@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U10",
+    "email": "patient10@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U11",
+    "email": "patient11@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U12",
+    "email": "patient12@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U13",
+    "email": "patient13@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U14",
+    "email": "patient14@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U15",
+    "email": "patient15@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U16",
+    "email": "patient16@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U17",
+    "email": "patient17@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U18",
+    "email": "patient18@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U19",
+    "email": "patient19@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U20",
+    "email": "patient20@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U21",
+    "email": "patient21@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U22",
+    "email": "patient22@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U23",
+    "email": "patient23@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U24",
+    "email": "patient24@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U25",
+    "email": "patient25@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U26",
+    "email": "patient26@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U27",
+    "email": "patient27@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U28",
+    "email": "patient28@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U29",
+    "email": "patient29@example.test",
+    "role": "patient",
+    "enabled": false
+  },
+  {
+    "_id": "U30",
+    "email": "patient30@example.test",
+    "role": "patient",
+    "enabled": false
+  }
+]

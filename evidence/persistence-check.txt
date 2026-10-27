@@ -1,0 +1,2 @@
+PASS: MongoDB record survived clean shutdown and restart using the same database folder and replica set port.
+Executed: 2026-10-05T18:52:31.216Z

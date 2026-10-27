@@ -1,0 +1,47 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> hospital-appointments@1.1.0 test
+> node --test --test-concurrency=1 tests/*.test.js
+
+Downloading MongoDB "7.0.14": 0% (0mb / 80.8mb)
+Downloading MongoDB "7.0.14": 100% (80.8mb / 80.8mb)
+Downloading MongoDB "7.0.14": 100% (0mb / 0mb)
+Downloading MongoDB "7.0.14": 100% (0mb / 0mb)
+✔ Baseline has six collections and exactly 150 documents (21770.253518ms)
+✔ Reference dataset and all six aggregations match report results (26.900555ms)
+✔ Seeding refuses populated databases without modifying them (3.188722ms)
+✔ Schema rejects invalid date types and occupancy flags (4.044138ms)
+✔ Index enforces occupied slot uniqueness (4.21454ms)
+✔ Disabled seed accounts cannot log in (21.831026ms)
+✔ Provisioning adds 11 accounts and is repeatable (2313.165998ms)
+✔ Authentication rejects wrong passwords, invalid tokens and injected login input (321.238702ms)
+✔ Patient listings and analytics are restricted by ownership and role (19.556616ms)
+✔ Create returns doctor department and patient identity from server data (8.528634ms)
+✔ Create rejects spoofed identity, missing references, past and off-grid times (17.225663ms)
+✔ Read slots marks occupied time and handles India date correctly (12.248464ms)
+✔ Concurrent booking requests yield one success and one conflict (9.391166ms)
+✔ Rescheduling collision keeps original appointment unchanged (5.556968ms)
+✔ Rescheduling succeeds, cancellation frees slot, controlled delete removes record (23.231424ms)
+✔ Completed visits cannot be rescheduled or cancelled (3.0667ms)
+✔ Prescription lookup rejects another patient (7.600984ms)
+✔ Consultation completion is atomic and restricted to assigned doctor (17.778472ms)
+✔ Failed prescription insertion rolls back appointment completion (9.384681ms)
+✔ Admin can maintain departments and provision doctor accounts (320.894919ms)
+✔ Patient profile edit rejects role escalation (8.704891ms)
+✔ Doctor availability edits preserve bookings and enforce 30 minute slots (9.948507ms)
+✔ Analytics range filters and unknown reports are validated (8.994899ms)
+✔ No password hashes are exposed by session endpoint (2.979337ms)
+✔ Patient signup atomically creates a profile and working login (616.344612ms)
+✔ Duplicate signup rolls back and does not create orphan profiles (352.493712ms)
+✔ Signup rejects role injection and invalid birth dates (9.426018ms)
+✔ Password change verifies current password and revokes earlier sessions (1545.351505ms)
+✔ Administrator can register a patient and book on their behalf (318.118377ms)
+✔ Doctor profile editing and calendar date validation work (5.147ms)
+ℹ tests 30
+ℹ suites 0
+ℹ pass 30
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 29024.861005

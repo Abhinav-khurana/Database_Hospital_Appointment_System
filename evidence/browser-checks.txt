@@ -1,0 +1,16 @@
+{
+  "executedAt": "2026-10-12T16:01:25.881Z",
+  "browser": "138.0.7204.0",
+  "result": "PASS",
+  "checks": [
+    "Doctor login and consultation completion",
+    "Patient prescription access",
+    "Readable prescription download content",
+    "Visit CSV download content",
+    "Public signup and immediate authenticated access",
+    "Password change and login with new password",
+    "Administrator patient registration",
+    "Administrator booking on behalf of newly registered patient",
+    "No uncaught browser errors"
+  ]
+}

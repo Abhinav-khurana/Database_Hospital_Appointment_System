@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "DEP1",
+    "name": "Cardiology",
+    "floor": 1,
+    "headDoctorId": "D01"
+  },
+  {
+    "_id": "DEP2",
+    "name": "Dermatology",
+    "floor": 2,
+    "headDoctorId": "D03"
+  },
+  {
+    "_id": "DEP3",
+    "name": "Orthopaedics",
+    "floor": 3,
+    "headDoctorId": "D05"
+  },
+  {
+    "_id": "DEP4",
+    "name": "Paediatrics",
+    "floor": 4,
+    "headDoctorId": "D07"
+  },
+  {
+    "_id": "DEP5",
+    "name": "General Medicine",
+    "floor": 5,
+    "headDoctorId": "D09"
+  }
+]

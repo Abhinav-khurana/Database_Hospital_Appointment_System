@@ -1,0 +1,20 @@
+import 'dotenv/config';
+import {mkdirSync,existsSync} from 'node:fs';
+import path from 'node:path';
+import {MongoMemoryReplSet} from 'mongodb-memory-server';
+import {MongoClient} from 'mongodb';
+import {seed} from '../database/02_seed.js';
+import {provision} from '../database/provision.js';
+import {createApp} from '../server/app.js';
+if(!process.env.JWT_SECRET||process.env.JWT_SECRET.length<32)throw new Error('Run npm run setup first.');
+if(!existsSync('dist/index.html'))throw new Error('Run npm run build first.');
+const folder=path.resolve('.local/mongo');mkdirSync(folder,{recursive:true});
+console.log('Starting local MongoDB. The first run downloads MongoDB 7.0.14.');
+const rs=await MongoMemoryReplSet.create({binary:{version:'7.0.14'},instanceOpts:[{port:27019,dbPath:folder,args:process.platform==='win32'?[]:['--nounixsocket']}],replSet:{count:1,name:'hospital_local',storageEngine:'wiredTiger'}});
+const client=new MongoClient(rs.getUri());await client.connect();
+const db=client.db('hospital_appointments');
+if(await db.collection('users').countDocuments()===0){await seed(db);await provision(db,process.env.DEMO_PASSWORD||'Hospital123!');console.log('Created 161 synthetic records, including patient, doctor and admin accounts.');}
+const app=createApp({db,client,secret:process.env.JWT_SECRET,demoMode:true});
+const server=app.listen(Number(process.env.PORT||4000),'127.0.0.1',()=>console.log('Open http://localhost:'+(process.env.PORT||4000)+' | Data persists in .local/mongo'));
+let stopping=false;
+for(const sig of ['SIGINT','SIGTERM'])process.on(sig,()=>{if(stopping)return;stopping=true;server.close(async()=>{await client.close();await rs.stop({doCleanup:false});process.exit(0);});});

@@ -1,0 +1,801 @@
+{
+  "executedAt": "2026-10-05T18:54:12.823Z",
+  "reports": {
+    "daily-load": [
+      {
+        "_id": {
+          "doctor": "D01",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D02",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D03",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D04",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D05",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D06",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D07",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D08",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D09",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D10",
+          "day": "2026-10-03"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D01",
+          "day": "2026-10-04"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D02",
+          "day": "2026-10-04"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D03",
+          "day": "2026-10-04"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D04",
+          "day": "2026-10-04"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D05",
+          "day": "2026-10-04"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D01",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D02",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D03",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D04",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D05",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D06",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D07",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D08",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D09",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D10",
+          "day": "2026-10-06"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D01",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D02",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D03",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D04",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D05",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D06",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D07",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D08",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D09",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D10",
+          "day": "2026-10-07"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D01",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D02",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D03",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D04",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D05",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D06",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D07",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D08",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D09",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      },
+      {
+        "_id": {
+          "doctor": "D10",
+          "day": "2026-10-08"
+        },
+        "appointments": 1
+      }
+    ],
+    "department-patients": [
+      {
+        "_id": "DEP1",
+        "patientCount": 6
+      },
+      {
+        "_id": "DEP2",
+        "patientCount": 6
+      },
+      {
+        "_id": "DEP3",
+        "patientCount": 6
+      },
+      {
+        "_id": "DEP4",
+        "patientCount": 6
+      },
+      {
+        "_id": "DEP5",
+        "patientCount": 6
+      }
+    ],
+    "monthly-trend": [
+      {
+        "_id": "2026-10",
+        "bookings": 45
+      }
+    ],
+    "specializations": [
+      {
+        "_id": "Cardiology",
+        "bookings": 10
+      },
+      {
+        "_id": "Dermatology",
+        "bookings": 10
+      },
+      {
+        "_id": "Orthopaedics",
+        "bookings": 9
+      },
+      {
+        "_id": "General Medicine",
+        "bookings": 8
+      },
+      {
+        "_id": "Paediatrics",
+        "bookings": 8
+      }
+    ],
+    "waiting-time": [
+      {
+        "_id": null,
+        "averageWaitMinutes": 7,
+        "consultations": 15
+      }
+    ],
+    "appointment-report": [
+      {
+        "_id": "A001",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Aditi Sharma",
+        "doctorName": "Dr. Aarav Mehta"
+      },
+      {
+        "_id": "A002",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Rahul Jain",
+        "doctorName": "Dr. Nisha Kapoor"
+      },
+      {
+        "_id": "A003",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Priya Singh",
+        "doctorName": "Dr. Rohan Sethi"
+      },
+      {
+        "_id": "A004",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Karan Gupta",
+        "doctorName": "Dr. Ananya Rao"
+      },
+      {
+        "_id": "A005",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Neha Das",
+        "doctorName": "Dr. Vikram Shah"
+      },
+      {
+        "_id": "A006",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Riya Bansal",
+        "doctorName": "Dr. Meera Nair"
+      },
+      {
+        "_id": "A007",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Dev Joshi",
+        "doctorName": "Dr. Kabir Malhotra"
+      },
+      {
+        "_id": "A008",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Simran Kaur",
+        "doctorName": "Dr. Sana Khan"
+      },
+      {
+        "_id": "A009",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Aman Patel",
+        "doctorName": "Dr. Arjun Batra"
+      },
+      {
+        "_id": "A010",
+        "startAt": "2026-10-03T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Tara Sen",
+        "doctorName": "Dr. Isha Verma"
+      },
+      {
+        "_id": "A011",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Aditi Sharma 2",
+        "doctorName": "Dr. Aarav Mehta"
+      },
+      {
+        "_id": "A012",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Rahul Jain 2",
+        "doctorName": "Dr. Nisha Kapoor"
+      },
+      {
+        "_id": "A013",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Priya Singh 2",
+        "doctorName": "Dr. Rohan Sethi"
+      },
+      {
+        "_id": "A014",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Karan Gupta 2",
+        "doctorName": "Dr. Ananya Rao"
+      },
+      {
+        "_id": "A015",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "completed",
+        "patientName": "Neha Das 2",
+        "doctorName": "Dr. Vikram Shah"
+      },
+      {
+        "_id": "A016",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Riya Bansal 2",
+        "doctorName": "Dr. Meera Nair"
+      },
+      {
+        "_id": "A017",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Dev Joshi 2",
+        "doctorName": "Dr. Kabir Malhotra"
+      },
+      {
+        "_id": "A018",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Simran Kaur 2",
+        "doctorName": "Dr. Sana Khan"
+      },
+      {
+        "_id": "A019",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Aman Patel 2",
+        "doctorName": "Dr. Arjun Batra"
+      },
+      {
+        "_id": "A020",
+        "startAt": "2026-10-04T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Tara Sen 2",
+        "doctorName": "Dr. Isha Verma"
+      },
+      {
+        "_id": "A021",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Aditi Sharma 3",
+        "doctorName": "Dr. Aarav Mehta"
+      },
+      {
+        "_id": "A022",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Rahul Jain 3",
+        "doctorName": "Dr. Nisha Kapoor"
+      },
+      {
+        "_id": "A023",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Priya Singh 3",
+        "doctorName": "Dr. Rohan Sethi"
+      },
+      {
+        "_id": "A024",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Karan Gupta 3",
+        "doctorName": "Dr. Ananya Rao"
+      },
+      {
+        "_id": "A025",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Neha Das 3",
+        "doctorName": "Dr. Vikram Shah"
+      },
+      {
+        "_id": "A026",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Riya Bansal 3",
+        "doctorName": "Dr. Meera Nair"
+      },
+      {
+        "_id": "A027",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Dev Joshi 3",
+        "doctorName": "Dr. Kabir Malhotra"
+      },
+      {
+        "_id": "A028",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Simran Kaur 3",
+        "doctorName": "Dr. Sana Khan"
+      },
+      {
+        "_id": "A029",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Aman Patel 3",
+        "doctorName": "Dr. Arjun Batra"
+      },
+      {
+        "_id": "A030",
+        "startAt": "2026-10-05T09:00:00.000Z",
+        "status": "cancelled",
+        "patientName": "Tara Sen 3",
+        "doctorName": "Dr. Isha Verma"
+      },
+      {
+        "_id": "A031",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Aditi Sharma",
+        "doctorName": "Dr. Aarav Mehta"
+      },
+      {
+        "_id": "A032",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Rahul Jain",
+        "doctorName": "Dr. Nisha Kapoor"
+      },
+      {
+        "_id": "A033",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Priya Singh",
+        "doctorName": "Dr. Rohan Sethi"
+      },
+      {
+        "_id": "A034",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Karan Gupta",
+        "doctorName": "Dr. Ananya Rao"
+      },
+      {
+        "_id": "A035",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Neha Das",
+        "doctorName": "Dr. Vikram Shah"
+      },
+      {
+        "_id": "A036",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Riya Bansal",
+        "doctorName": "Dr. Meera Nair"
+      },
+      {
+        "_id": "A037",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Dev Joshi",
+        "doctorName": "Dr. Kabir Malhotra"
+      },
+      {
+        "_id": "A038",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Simran Kaur",
+        "doctorName": "Dr. Sana Khan"
+      },
+      {
+        "_id": "A039",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Aman Patel",
+        "doctorName": "Dr. Arjun Batra"
+      },
+      {
+        "_id": "A040",
+        "startAt": "2026-10-06T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Tara Sen",
+        "doctorName": "Dr. Isha Verma"
+      },
+      {
+        "_id": "A041",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Aditi Sharma 2",
+        "doctorName": "Dr. Aarav Mehta"
+      },
+      {
+        "_id": "A042",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Rahul Jain 2",
+        "doctorName": "Dr. Nisha Kapoor"
+      },
+      {
+        "_id": "A043",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Priya Singh 2",
+        "doctorName": "Dr. Rohan Sethi"
+      },
+      {
+        "_id": "A044",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Karan Gupta 2",
+        "doctorName": "Dr. Ananya Rao"
+      },
+      {
+        "_id": "A045",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Neha Das 2",
+        "doctorName": "Dr. Vikram Shah"
+      },
+      {
+        "_id": "A046",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Riya Bansal 2",
+        "doctorName": "Dr. Meera Nair"
+      },
+      {
+        "_id": "A047",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Dev Joshi 2",
+        "doctorName": "Dr. Kabir Malhotra"
+      },
+      {
+        "_id": "A048",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Simran Kaur 2",
+        "doctorName": "Dr. Sana Khan"
+      },
+      {
+        "_id": "A049",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Aman Patel 2",
+        "doctorName": "Dr. Arjun Batra"
+      },
+      {
+        "_id": "A050",
+        "startAt": "2026-10-07T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Tara Sen 2",
+        "doctorName": "Dr. Isha Verma"
+      },
+      {
+        "_id": "A051",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Aditi Sharma 3",
+        "doctorName": "Dr. Aarav Mehta"
+      },
+      {
+        "_id": "A052",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Rahul Jain 3",
+        "doctorName": "Dr. Nisha Kapoor"
+      },
+      {
+        "_id": "A053",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Priya Singh 3",
+        "doctorName": "Dr. Rohan Sethi"
+      },
+      {
+        "_id": "A054",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Karan Gupta 3",
+        "doctorName": "Dr. Ananya Rao"
+      },
+      {
+        "_id": "A055",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Neha Das 3",
+        "doctorName": "Dr. Vikram Shah"
+      },
+      {
+        "_id": "A056",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Riya Bansal 3",
+        "doctorName": "Dr. Meera Nair"
+      },
+      {
+        "_id": "A057",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Dev Joshi 3",
+        "doctorName": "Dr. Kabir Malhotra"
+      },
+      {
+        "_id": "A058",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Simran Kaur 3",
+        "doctorName": "Dr. Sana Khan"
+      },
+      {
+        "_id": "A059",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Aman Patel 3",
+        "doctorName": "Dr. Arjun Batra"
+      },
+      {
+        "_id": "A060",
+        "startAt": "2026-10-08T09:00:00.000Z",
+        "status": "booked",
+        "patientName": "Tara Sen 3",
+        "doctorName": "Dr. Isha Verma"
+      }
+    ]
+  }
+}
