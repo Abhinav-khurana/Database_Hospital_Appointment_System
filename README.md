@@ -90,14 +90,17 @@ All routes except login, patient registration, config and health require a Beare
 
 Report names: daily-load, department-patients, monthly-trend, specializations, waiting-time, appointment-report. `from` is inclusive and `to` exclusive. The chart fills internal missing months with zero between the first and last returned months. CSV export uses the same selected date range.
 
-## Repository
-
-This is repository-ready source with package-lock.json and .gitignore. Initialize a repository locally if required:
+## Run locally
 
 ```sh
-git init
-git add .
-git commit -m "Implement hospital appointment system"
+npm ci
+npm run launch
 ```
 
-Create your own remote repository and add its URL before pushing. No hosted repository has been created by this package. Keep `.env`, `.local`, node_modules and real patient data out of version control.
+Open http://localhost:4000 and keep the terminal running. See START_HERE.md for full instructions.
+
+## Repository
+
+https://github.com/Abhinav-khurana/Database_Hospital_Appointment_System
+
+Keep `.env`, `.local`, node_modules and real patient data out of version control.
